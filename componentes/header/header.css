@@ -1,0 +1,21 @@
+header{
+    border: 1px solid red;
+    width: 50rem;
+    height: 5rem;
+
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+header .titulo{
+    margin-top: 7.5rem;
+    font-size: 20px;
+    margin-left: 2rem;
+    margin: auto;
+}
+header .titulo2{
+    margin-top: 7.5rem;
+    font-size: 20px;
+    margin-left: 1rem;
+    margin: auto;
+}
